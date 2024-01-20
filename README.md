@@ -1,12 +1,14 @@
 ## Lenovo IdeaPad S310 Hackintosh
 
-## OpenCore版本：0.7.8
+## OpenCore版本：0.7.7
 
 ## 系统版本：Big Sur_11.6.6
 
 #### 适用型号
 
 采用Intel 酷睿i3 4010U处理器的联想IdeaPad S310
+
+![2022/11/17 已出售该笔记本](S310.jpg)
 
 #### 硬件参数
 | 硬件  | 名称       | 备注            |
