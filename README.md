@@ -14,9 +14,9 @@
 | CPU | i3-4010U | 支持变频 |
 | GPU | HD4400   | AMD Radeon HD 8570M已屏蔽 |
 | 内存 | Samsung 4G*1   | DDR3L 1600MHz |
-| 硬盘 | Galaxy SSD SATA | 出厂为机械硬盘，请更换固态硬盘 |
-| 网卡  | Atheros    | 不支持隔空投送，WiFi接收信号差   |
-| 声卡  | ALC???   | 不支持Win热重启至Mac |
+| 硬盘 | Galaxy SSD 128G | 出厂为机械硬盘，请更换固态硬盘 |
+| 网卡  | Atheros  | 不支持隔空投送，WiFi接收信号差   |
+| 声卡  | ???   | 不支持Win热重启至Mac |
 | 触控板 | PS2   | 支持多指触控 |
 | 摄像头 | ??? | 原厂摄像头 |
 
